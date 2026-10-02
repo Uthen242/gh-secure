@@ -16,7 +16,7 @@ A [GitHub CLI](https://cli.github.com) extension to enable security features on 
 
 Only an open source project on GitHub where you have admin access.
 
-## How do I use it? 
+## How do tI use it? 
 
 Running the tool will enable security features for your repository in 2 minutes or less.
 
